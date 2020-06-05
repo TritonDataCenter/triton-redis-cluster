@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "triton": "^7.9.0"
+  }
+}
